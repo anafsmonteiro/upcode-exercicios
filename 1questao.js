@@ -15,7 +15,7 @@ for (let i = 1; i <= 30; i++) {
         imp.push(num);
         if (imp.length == 6) {
             imp.splice(0,1)
-            console.log(`IMPARr: ${imp}`);
+            console.log(`IMPAR: ${imp}`);
         }
     }
 }
